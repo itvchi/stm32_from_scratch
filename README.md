@@ -1,0 +1,1 @@
+STM32 blink example from scratch including custom linker script and startup code
